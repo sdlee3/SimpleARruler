@@ -8,7 +8,7 @@ Simple AR ruler
 - display UILabel on scene
 - create line in between two scene
 
-<img alt="" src="Screenshot/sample_ruler.jpeg" width="300px" />
+<img alt="" src="Screenshot/sample_ruler.png" width="300px" />
 
 
 
